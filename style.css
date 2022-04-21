@@ -28,7 +28,7 @@ html {
 }
 
 body {
-  background: #abff9a;
+  background: #d8ecd3;
   font-family: 'Poppins', sans-sarif ;
 }
 
@@ -120,7 +120,7 @@ header{
 
 .card{
   background: #fff;
-  box-shadow: 1rem 1rem 1rem 0px;
+  box-shadow: 0.25rem 0.25rem 0.25rem 0.25px;
   padding: 1.5rem 2rem;
   border-radius: 0.25rem;
 
